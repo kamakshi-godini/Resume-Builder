@@ -1,0 +1,30 @@
+body{
+ background-color: White;
+ background-size: cover;
+ background-repeat: no-repeat;
+ display: black;
+ position: relative;}
+#cv-form {
+ /*display: n ne*/;}
+#cv-template {
+ display: none;}
+.myimg {
+ border-radius: 50%;
+ width: 200px;}
+.background {
+ background-color: aqua;}
+.form-control{
+ background: rgba(255,255,255,0.4);
+ position: relative;
+ display: block;
+ outline: 0;
+ color: #333;
+ -webkit-box-shadow: 0 2px 5px 1px rgba(0,0,0,0.3);
+ box-shadow: 0 2px 5px 1px rgba(0,0,0,0.3);}
+ ::-webkit-input-placeh lder { color: #666;}
+ :-moz-placeholder { color: #666; }
+ ::-moz-placeholder { color: #666; }
+
+ :-ms-input-placeholder { color: #666; }
+ h3{
+ .text-decoration: underline;}
